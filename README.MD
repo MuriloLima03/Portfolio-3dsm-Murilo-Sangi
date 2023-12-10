@@ -68,7 +68,6 @@
 
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
 
-<p align="center"><img src="" widht="20%"></img>
 
 <p align="justify">Neste projeto o objetivo do projeto foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
 <br>
