@@ -72,7 +72,7 @@
 <h3>Tecnologias Utilizadas</h3>
 <li><b>HTML</b>: Estrutura e conteúdo das páginas web.</li>
     <li><b>CSS</b>: Estilização e responsividade.</li>
-    <li><b>Javascript está sendo utilizado para possibilitar certas interações com o funcionário melhorando a expêriencia de uso do site</li>
+    <li><b>Javascript:</b> está sendo utilizado para possibilitar certas interações com o funcionário melhorando a expêriencia de uso do site</li>
     <li><b>Python</b>: Desenvolvimento backend.</li>
     <li><b>Flask</b>: Flask é um framework web para python, foi utilizado para fazer o gerenciamento de rotas e troca de dados entre cliente e servidor.</li>
     <li><b>MySQL</b>: SGBD utilizado para que seja possivel armazenar os dados.</li>
