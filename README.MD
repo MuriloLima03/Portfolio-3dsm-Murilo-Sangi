@@ -31,7 +31,7 @@
 <ul><a href="#equipe-beelieve">3º Semestre • 2/2023 • Beelieve</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias3">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#tecnologia3">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições3">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições3">Lições Aprendidas</a>
     <ul>◻️ <a href="#hard3">Skills</a></ul>
@@ -182,8 +182,8 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 
 <h3>Equipe Beelieve</h3>
 
-<p align="justify">Parceiro Acadêmico: <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve">SIATT</a></p>
-<h4>3º Semestre • 2/2022 • <a href="https://github.com/EquipeAPI/API-1DSM-2022">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.siatt.com.br/siatt/index.php/en/home/">SIATT</a></p>
+<h4>3º Semestre • 2/2022 • <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve">Repositório Github</a></h4>
 <img src="Beelieve.png"></img>
 
 <p align="justify">
