@@ -1,4 +1,4 @@
-<h1 align="center"> Portfolio Murilo Henrique Sangi, das APIs da faculdade de tecnologia de São José dos Campos
+<h1 align="center"> Portfólio de Murilo Henrique Sangi, das APIs da Faculdade de Tecnologia de São José dos Campos
 
 <hr>
 <h2>Sumário</h2>
@@ -45,7 +45,7 @@
 
 <img src="fotoMurilo.png"></img>
 
-<p align="justify">Formado como técnico em Analise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São josé dos campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perserverança e determinação.
+<p align="justify">Formado como técnico em Análise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perseverança e determinação.
 
 <p aling="justify">Durante meus estudos acabei me especializando na atuação no Front-end, focando principalmente no desenvolvimento de aplicações para a Web, também possuo conhecimento na área de desenvolvimento de bancos de dados, design digital entre outros.
 
@@ -70,7 +70,7 @@
 <h3>Tecnologias Utilizadas</h3>
 <li><b>HTML</b>: Estrutura e conteúdo das páginas web.</li>
     <li><b>CSS</b>: Estilização e responsividade.</li>
-    <li><b>Javascript:</b> está sendo utilizado para possibilitar certas interações com o funcionário melhorando a expêriencia de uso do site</li>
+    <li><b>Javascript:</b> está sendo utilizado para possibilitar certas interações com o funcionário melhorando a experiência de uso do site</li>
     <li><b>Python</b>: Desenvolvimento backend.</li>
     <li><b>Flask</b>: Flask é um framework web para python, foi utilizado para fazer o gerenciamento de rotas e troca de dados entre cliente e servidor.</li>
     <li><b>MySQL</b>: SGBD utilizado para que seja possivel armazenar os dados.</li>
@@ -91,7 +91,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 <p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalha em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
 
 <span id="hard"></span>
-<h3>Hard and Soft Skills</h3>
+<h3>Hard e Soft Skills</h3>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -123,7 +123,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 
 <p align="justify">Neste projeto o objetivo do projeto foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
 
-Esse projeto foi realizado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel fazera a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.
+Esse projeto foi realizado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel realizar a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.
 <br>
 <span id="tecnologia2"></span>
 <h3>Tecnologias Utilizadas</h3>
@@ -151,7 +151,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante o desenvolvimento aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 
 <span id="hard2"></span>
-<h3>Hard and soft Skills</h3>
+<h3>Hard e soft Skills</h3>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -219,7 +219,7 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
 <h3>Lições Aprendidas</h3>
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante essa sprint aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 <span id="hard3"></span>
-<h3>Hard and Soft Skills</h3>
+<h3>Hard e Soft Skills</h3>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -276,5 +276,5 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
 <li>> Arduino</li>
 <li>> React</li>
 <ul>
-<h3>Sou um desenvolvedor primeiramente FrontEnd, com expêriencia no uso de linguagens de programação e design digital para a criação e aplicação de Sites e aplicativos Mobile,  tendo amplo conhecimento do uso de CSS e JavaScript assim como suas bibliotecas externas como Swift, Spring, React, assim como o do uso de Python para a Web, também possuindo conhecimento sobre Banco de dados relacionais e não relacionais, e IOT através de estudos e pequenos projetos usando o Arduino.</h3>
+<h3>Sou um desenvolvedor primeiramente FrontEnd, com experiência no uso de linguagens de programação e design digital para a criação e aplicação de Sites e aplicativos Mobile,  tendo amplo conhecimento do uso de CSS e JavaScript assim como suas bibliotecas externas como Swift, Spring, React, assim como o do uso de Python para a Web, também possuindo conhecimento sobre Banco de dados relacionais e não relacionais, e IOT através de estudos e pequenos projetos usando o Arduino.</h3>
 <p><a href="#sumário">Voltar para o início</a></p>
