@@ -60,7 +60,7 @@
 
 <div class="semestre1">
 <h2>Meus Projetos</h2>
-<h4>1º Semestre • 2/2022 • <a href="">Repositório Github</a></h4>
+<h4>1º Semestre • 2/2022 • <a href="https://github.com/EquipeAPI/API-1DSM-2022">Repositório Github</a></h4>
 <h3>Equipe Guará</h3>
 <img src ="Guará.png"></img>
 
@@ -114,7 +114,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 </details>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
-
+<h4>2º Semestre • 2/2022 • <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023">Repositório Github</a></h4>
 <h3>Equipe Sabiá</h3>
 
 <p align="justify">Parceiro Acadêmico: <a href="https://jaia.software">Jaia Software</a></p>
@@ -176,14 +176,13 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 
 <h3>Equipe Beelieve</h3>
 
-<p align="justify">Parceiro Acadêmico: <a href="https://www.siatt.com.br/siatt/index.php/en/home/">SIATT</a></p>
-
+<p align="justify">Parceiro Acadêmico: <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve">SIATT</a></p>
+<h4>3º Semestre • 2/2022 • <a href="https://github.com/EquipeAPI/API-1DSM-2022">Repositório Github</a></h4>
 <img src="Beelieve.png"></img>
 
 <p align="justify">
 Esse projeto foi conduzido em colaboração com a empresa do setor armamentista SIATT, e tinha como intuio o desenvolvimento de um software que ajude com o gerenciamento de equipes para projetos completos, seguindo as metodologias IPDT e WBS, que já são bem consolidadas na gestão de projetos e engenharia de sistemas.</p>
 
-<ul>➤ <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve">Link pra o repositório</a></ul>
 <br>
 <h3>Tecnologias Utilizadas</h3>
 <li>
