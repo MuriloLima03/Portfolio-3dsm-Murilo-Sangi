@@ -64,7 +64,7 @@
 <h4>1º Semestre • 2/2022 • <a href="">Repositório Github</a></h4>
 
 <h3>Equipe Guará</h3>
-<h3>Guará</h3>
+<img src ="Guará.png"></img>
 
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
 
@@ -96,8 +96,6 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 
 <h3>Hard Skills</h3>
 <details>
-  <summary><b>Ver Lista de hard skills</b></summary>
-  <br>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -117,6 +115,80 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
         <li>Comunicação: Explicar e comunicar idéias, problemas e conceitos para o melhor desenvolvimento do projeto</li>
         <li>Trabalho em equipe: Desenvolvimento de projeto em equipe com pessoas que eu não conhecia, tomando decisões e ajudando um ao outro</li>
     </ul>
+
+
+
+<h3>Equipe Sabiá</h3>
+
+<p align="justify">Parceiro Acadêmico: <a href="https://jaia.software">Jaia Software</a></p>
+
+<p align="center"><img src="" widht="20%"></img>
+
+<p align="justify">Neste projeto o objetivo do projeto foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
+
+Esse projeto fpo realozado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel fazera a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.
+<br>
+<h3>Tecnologias Utilizadas</h3>
+<li><b>React</b>: A biblioteca do javascript foi utilizada para construir as interfaces gráficas da aplicação web</li>
+    <li><b>Node</b>:O node é o ambiente de execução do javascript, foi usado para desenvolver a aplicação enquanto utilizando a linguagem</li>
+    <li><b>Typescript</b>:O typescript foi utilizado no back-end, é um derivado do JavaScript com foco na programação orienta a objetos.</li>
+    <li><b>Express</b>: Express é um framework web feito para o Javascript, foi utilizado para gerenciar o back-end</li>
+    <li><b>MySQL</b>: Sistema Gerenciador de banco de dados utilizado.</li>
+<h3>Contribuições Pessoais</h3>
+<p align="justify">
+Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando na correção de erros e na estilização de paginas, as principais colaborações foram na tela de login, na adição de animações e funcionalidade da listagem de pedidos, tornando ela expansivel, e a implementação da barra de pesquisa.
+</p>
+<ul>
+  <li>Desenvolvimendo de aplicação Web</li>
+  <li>Desenvolvimento de Design para aplicações web</li>
+  <li>Desenvolvimento de logos e prototipação para aplicações web</li>
+  <li>Desenvolvimento de interações complexas para web utilizando javaScript</li>
+  <li>Integrações dos sistemas</li>
+  <li>Arquitetura da aplicação</li>
+</ul>
+<br>
+<h3>Lições Aprendidas</h3>
+<p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante essa sprint aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
+
+<h3>Hard Skills</h3>
+<details>
+  <table align="center">
+<details>
+    <summary><b>Hard Skills</b></summary>
+    <p></p>
+    <ul>
+        <li>Frontend: Node, Express e JavaScript</li>
+        <li>Backend: Typescript</li>
+        <li>Desenvolvimento de SPA utilizando React.</li>
+    </ul>
+</details>
+<details>
+    <summary><b>Soft Skills</b></summary>
+    <p></p>
+    <ul>
+        <li>Resiliência: Continuar tentando resolver problemas e partes complicadas do projeto sem desistir
+        <li>Empatia: Ajudar colegas com dificuldades e entender seus problemas.</li>
+        <li>Comunicação: Explicar e comunicar idéias, problemas e conceitos para o melhor desenvolvimento do projeto</li>
+        <li>Trabalho em equipe: Desenvolvimento de projeto em equipe, tomando decisões e ajudando um ao outro</li>
+        <li>Autonomia: Confiança para resolver problemas que apareceram durante o desenvolvimento.</li>
+        <li>Proatividade: 
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
   </table>
 </details>
@@ -134,4 +206,4 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 <li>> Arduino</li>
 <li>> React</li>
 <ul>
-Sou um desenvolvedor primeiramente FrontEnd, com expêriencia no uso de linguagens de programação e design digital para a criação e aplicação de Sites e aplicativos Mobile,  tendo amplo conhecimento do uso de CSS e JavaScript assim como suas bibliotecas externas como Swift, Spring, React, assim como o do uso de Python para a Web, também possuindo conhecimento sobre Banco de dados relacionais e não relacionais, e IOT através de estudos e pequenos projetos usando o Arduino.
+<h3>Sou um desenvolvedor primeiramente FrontEnd, com expêriencia no uso de linguagens de programação e design digital para a criação e aplicação de Sites e aplicativos Mobile,  tendo amplo conhecimento do uso de CSS e JavaScript assim como suas bibliotecas externas como Swift, Spring, React, assim como o do uso de Python para a Web, também possuindo conhecimento sobre Banco de dados relacionais e não relacionais, e IOT através de estudos e pequenos projetos usando o Arduino.</h3>
