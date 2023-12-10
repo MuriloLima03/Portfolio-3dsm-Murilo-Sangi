@@ -11,8 +11,7 @@
     <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
-    <ul>◻️ <a href="#hard-skills">Soft Skills</a></ul>
+    <ul>◻️ <a href="#hard">Skills</a></ul>
     </ul>
   </details>
 </div>
@@ -23,7 +22,7 @@
     <ul>◻️ <a href="#tecnologia2">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições2">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições2">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard2">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard2">Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -35,7 +34,7 @@
     <ul>◻️ <a href="#tecnologias3">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições3">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições3">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard3">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard3">Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -91,6 +90,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 <h3>Lições Aprendidas</h3>
 <p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalha em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
 
+<span id="hard"></span>
 <h3>Hard and Soft Skills</h3>
   <table align="center">
 <details>
