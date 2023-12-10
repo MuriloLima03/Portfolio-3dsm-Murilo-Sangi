@@ -162,6 +162,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Desenvolvimento de SPA utilizando React.</li>
     </ul>
 </details>
+<details>
     <summary><b>Soft Skills</b></summary>
     <p></p>
     <ul>
@@ -171,6 +172,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Trabalho em equipe: Desenvolvimento de projeto em equipe, tomando decisões e ajudando um ao outro</li>
         <li>Autonomia: Confiança para resolver problemas que apareceram durante o desenvolvimento.</li>
     </ul>
+    </details>
 <p><a href="#sumário">Voltar para o início</a></p>
 
 
@@ -238,6 +240,7 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
         <li>Trabalho em equipe: Desenvolvimento de projeto em equipe, tomando decisões e ajudando um ao outro e se comunicando com lideres e outros membros para as decisões relacionadas ao projeto</li>
         <li>Autoconhecimento: entender as próprias limitações e não pegar mais do que possivel, e comunicar isso para a equipe </li>
     </ul>
+  
 <p><a href="#sumário">Voltar para o início</a></p>
 
 
