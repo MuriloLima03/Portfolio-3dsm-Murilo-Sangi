@@ -45,7 +45,7 @@
 
 <img src="fotoMurilo.png"></img>
 
-<p align="justify">Formado como técnico em Análise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perseverança e determinação.
+<p align="justify">Formado como técnico em Análise e desenvolvimento de sistemas pela ETEC profª Ilza Nascimento Pintus, atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perseverança e determinação.
 
 <p aling="justify">Durante meus estudos acabei me especializando na atuação no Front-end, focando principalmente no desenvolvimento de aplicações para a Web, também possuo conhecimento na área de desenvolvimento de bancos de dados, design digital entre outros.
 
@@ -88,7 +88,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 </ul>
 <br>
 <h3>Lições Aprendidas</h3>
-<p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalha em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
+<p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalhar em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
 
 <span id="hard"></span>
 <h3>Hard e Soft Skills</h3>
@@ -100,7 +100,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
         <li>Frontend: Desenvolvimento HTML, CSS e JavaScript</li>
         <li>Backend: Desenvolvimento com python e Flask</li>
         <li>Uso de sites e programas para gerenciamento de projetos (jira)</li>
-        <li>Desenvolvimento de protótipo de sites (neste caso usado o figma)<li>
+        <li>Desenvolvimento de protótipo de sites (neste caso usado o figma)</li>
     </ul>
 </details>
 <details>
@@ -121,9 +121,8 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 
 <img src="Sabiá.png"></img>
 
-<p align="justify">Neste projeto o objetivo do projeto foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
-
-Esse projeto foi realizado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel realizar a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.
+<p align="justify">
+Esse projeto foi realizado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel realizar a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.</p>
 <br>
 <span id="tecnologia2"></span>
 <h3>Tecnologias Utilizadas</h3>
@@ -192,7 +191,6 @@ Esse projeto foi conduzido em colaboração com a empresa do setor armamentista 
 <br>
 <span id="tecnologia3"></span>
 <h3>Tecnologias Utilizadas</h3>
-<li>
     <li><b>Java</b>: O back-end foi desenvolvido utilizando Java.</li>
     <li><b>Spring Boot</b>:Spring Boot é um framework java que foi utilizado para o desenvolvimento do back-end.</li>
     <li><b>Hibernate</b>: ORM utilizada para interagir com o banco de dados.</li>
@@ -211,6 +209,8 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
   <li>Desenvolvimento de Design para aplicações web</li>
   <li>Desenvolvimento de logos e prototipação para aplicações web</li>
   <li>Desenvolvimento de interações complexas para web utilizando javaScript</li>
+  <li>desenvolvimento de interações front e back que alteram gráficos imagens e outras coisas.</li>
+  <li> Conhecimento avançado sobre bibliotecas externas (chart.js, hammer.js)</li>
   <li>Integrações dos sistemas</li>
   <li>Arquitetura da aplicação</li>
 </ul>
