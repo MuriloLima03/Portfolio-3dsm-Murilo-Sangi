@@ -20,7 +20,7 @@
 <ul><a href="#equipe-sabiá">2º Semestre • 1/2023 • Sabiá</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#tecnologia2">Tecnologias Utilizadas</a></ul>
     <ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
     <ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
@@ -60,8 +60,9 @@
 
 <div class="semestre1">
 <h2>Meus Projetos</h2>
-<h4>1º Semestre • 2/2022 • <a href="https://github.com/EquipeAPI/API-1DSM-2022">Repositório Github</a></h4>
+
 <h3>Equipe Guará</h3>
+<h4>1º Semestre • 2/2022 • <a href="https://github.com/EquipeAPI/API-1DSM-2022">Repositório Github</a></h4>
 <img src ="Guará.png"></img>
 
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
@@ -76,6 +77,7 @@
     <li><b>Python</b>: Desenvolvimento backend.</li>
     <li><b>Flask</b>: Flask é um framework web para python, foi utilizado para fazer o gerenciamento de rotas e troca de dados entre cliente e servidor.</li>
     <li><b>MySQL</b>: SGBD utilizado para que seja possivel armazenar os dados.</li>
+  
 <h3>Contribuições Pessoais</h3>
 <p align="justify">
 Neste projeto minha principal função foi como desenvolvedor frontend criando o protótipo do site e ajudando na estilização de botões logos forms e paginas além da correção de diversos erros, tentando criar um site simples e objetivo que atendesse as especificações do cliente, desempenhado papel ativo para decisões de design e funcionalidades.
@@ -114,9 +116,9 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 </details>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
-<h4>2º Semestre • 2/2022 • <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023">Repositório Github</a></h4>
-<h3>Equipe Sabiá</h3>
 
+<h3>Equipe Sabiá</h3>
+<h4>2º Semestre • 2/2022 • <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://jaia.software">Jaia Software</a></p>
 
 <img src="Sabiá.png"></img>
@@ -125,6 +127,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 
 Esse projeto foi realizado em parceria com a Jaia Software, empresa com especializade em sistemas de ERP,teve como intuito a criação de um sistema para que seja possivel fazera a inspeção de entrada para o controle de grãos para a Agoindústria, o back-end foi desenvolvido utilizando TypeScript, com o framework React no front, o banco foi desenvolvido com MySql.
 <br>
+<span id="tecnologia2"></span>
 <h3>Tecnologias Utilizadas</h3>
 <li><b>React</b>: A biblioteca do javascript foi utilizada para construir as interfaces gráficas da aplicação web</li>
     <li><b>Node</b>:O node é o ambiente de execução do javascript, foi usado para desenvolver a aplicação enquanto utilizando a linguagem</li>
