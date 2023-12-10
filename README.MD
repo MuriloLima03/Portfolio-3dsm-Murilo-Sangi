@@ -121,7 +121,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
   </table>
 </details>
 <h1 align="center"> Conhecimentos principais<h1>
-<h2>Programação <h2>
+<h2>Programação </h2>
 <ul>
 <li>> Python</li>
 <li>> Javascript</li>
