@@ -21,10 +21,10 @@
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologia2">Tecnologias Utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft-skills">Soft Skills</a></ul>
+    <ul>◻️ <a href="#contribuições2">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições2">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard2">Hard Skills</a></ul>
+    <ul>◻️ <a href="#soft2">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -33,11 +33,11 @@
 <ul><a href="#equipe-beelieve">3º Semestre • 2/2023 • Beelieve</a>
   <details>
     <summary>Detalhes</summary>
-    <ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
-    <ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
-    <ul>◻️ <a href="#lições-aprendidas--">Lições Aprendidas</a>
-    <ul>◻️ <a href="#hard-skills--">Hard Skills</a></ul>
-    <ul>◻️ <a href="#hard-skills--">Soft Skills</a></ul>
+    <ul>◻️ <a href="#tecnologias3">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições3">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições3">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard3">Hard Skills</a></ul>
+    <ul>◻️ <a href="#soft3">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -134,6 +134,7 @@ Esse projeto foi realizado em parceria com a Jaia Software, empresa com especial
     <li><b>Typescript</b>:O typescript foi utilizado no back-end, é um derivado do JavaScript com foco na programação orienta a objetos.</li>
     <li><b>Express</b>: Express é um framework web feito para o Javascript, foi utilizado para gerenciar o back-end</li>
     <li><b>MySQL</b>: Sistema Gerenciador de banco de dados utilizado.</li>
+    <span id="contribuições2"></span>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">
 Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando na correção de erros e na estilização de paginas, as principais colaborações foram na tela de login, na adição de animações e funcionalidade da listagem de pedidos, tornando ela expansivel, e a implementação da barra de pesquisa além de colaborar com os testes.
@@ -147,9 +148,11 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
   <li>Arquitetura da aplicação</li>
 </ul>
 <br>
+<span id="lições2"></span>
 <h3>Lições Aprendidas</h3>
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante o desenvolvimento aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 
+<span id="hard2"></span>
 <h3>Hard Skills</h3>
   <table align="center">
 <details>
@@ -160,6 +163,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Backend: Typescript</li>
         <li>Desenvolvimento de SPA utilizando React.</li>
     </ul>
+  <span id="soft2"></span>
 </details>
     <summary><b>Soft Skills</b></summary>
     <p></p>
