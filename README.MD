@@ -45,7 +45,7 @@
 
 <img src="fotoMurilo.png"></img>
 
-<p align="justify">Formado como técnico em Analise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cusando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São josé dos campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perserverança e determinação.
+<p align="justify">Formado como técnico em Analise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São josé dos campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perserverança e determinação.
 
 <p aling="justify">Durante meus estudos acabei me especializando na atuação no Front-end, focando principalmente no desenvolvimento de aplicações para a Web, também possuo conhecimento na área de desenvolvimento de bancos de dados, design digital entre outros.
 
@@ -65,7 +65,7 @@
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
 
 
-<p align="justify">Neste projeto o objetivo do projeto foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
+<p align="justify">Neste projeto o objetivo foi a criação de um sistema de gerenciamento de transações de um banco digital, com funcionalidades para permitir a monitoração e controle de operações bancarias, para que assim se possa reduzir as interações presenciais. </p>
 <br>
 <h3>Tecnologias Utilizadas</h3>
 <li><b>HTML</b>: Estrutura e conteúdo das páginas web.</li>
@@ -220,7 +220,6 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante essa sprint aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 <span id="hard3"></span>
 <h3>Hard and Soft Skills</h3>
-<details>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
