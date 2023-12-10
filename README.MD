@@ -5,7 +5,7 @@
 <p>◻️ <a href="#sobre">Sobre</a></p>
 <p>◻️ <a href="#projetos">Projetos</a></p>
 <div class="semestre1">
-<ul><a href="#Sabia">1º Semestre • 2/2022 • Guará</a>
+<ul><a href="#equipe-guará">1º Semestre • 2/2022 • Guará</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
@@ -15,7 +15,6 @@
     <ul>◻️ <a href="#hard-skills">Soft Skills</a></ul>
     </ul>
   </details>
-</ul>
 </div>
 <div class="semestre2">
 <ul><a href="#equipe-sabiá">2º Semestre • 1/2023 • Sabiá</a>
@@ -47,7 +46,7 @@
 
 <h2>Sobre mim</h2>
 
-<img src="fotoMurilo"></img>
+<img src="fotoMurilo.png"></img>
 
 <p align="justify">Formado como técnico em Analise e desenvolvimento de software pela ETEC profª Ilza Nascimento Pintus, atualmente cusando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC de São josé dos campos, o caminho que estou percorrendo possui seus altos e baixos e seus desafios, marcado por perserverança e determinação.
 
@@ -93,7 +92,6 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 <p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalha em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
 
 <h3>Hard Skills</h3>
-<details>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -113,8 +111,9 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
         <li>Comunicação: Explicar e comunicar idéias, problemas e conceitos para o melhor desenvolvimento do projeto</li>
         <li>Trabalho em equipe: Desenvolvimento de projeto em equipe com pessoas que eu não conhecia, tomando decisões e ajudando um ao outro</li>
     </ul>
+</details>
 <p><a href="#sumário">Voltar para o início</a></p>
-
+</div>
 
 <h3>Equipe Sabiá</h3>
 
@@ -149,7 +148,6 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante o desenvolvimento aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 
 <h3>Hard Skills</h3>
-<details>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -160,7 +158,6 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Desenvolvimento de SPA utilizando React.</li>
     </ul>
 </details>
-<details>
     <summary><b>Soft Skills</b></summary>
     <p></p>
     <ul>
@@ -235,4 +232,41 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
         <li>Trabalho em equipe: Desenvolvimento de projeto em equipe, tomando decisões e ajudando um ao outro e se comunicando com lideres e outros membros para as decisões relacionadas ao projeto</li>
         <li>Autoconhecimento: entender as próprias limitações e não pegar mais do que possivel, e comunicar isso para a equipe </li>
     </ul>
+<p><a href="#sumário">Voltar para o início</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
+  </table>
+</details>
+<h1 align="center"> Conhecimentos principais<h1>
+<h2>Programação </h2>
+<ul>
+<li>> Python</li>
+<li>> Javascript</li>
+<li>> Java</li>
+<li>> MYSQL</li>
+<li>> bancos não relacionais (mongodb, neo4j, cassandra, entre outros_</li>
+<li>> C</li>
+<li>> CSS </li>
+<li>> PHP</li>
+<li>> Arduino</li>
+<li>> React</li>
+<ul>
+<h3>Sou um desenvolvedor primeiramente FrontEnd, com expêriencia no uso de linguagens de programação e design digital para a criação e aplicação de Sites e aplicativos Mobile,  tendo amplo conhecimento do uso de CSS e JavaScript assim como suas bibliotecas externas como Swift, Spring, React, assim como o do uso de Python para a Web, também possuindo conhecimento sobre Banco de dados relacionais e não relacionais, e IOT através de estudos e pequenos projetos usando o Arduino.</h3>
 <p><a href="#sumário">Voltar para o início</a></p>
