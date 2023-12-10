@@ -163,8 +163,9 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Backend: Typescript</li>
         <li>Desenvolvimento de SPA utilizando React.</li>
     </ul>
-  <span id="soft2"></span>
 </details>
+<span id="soft2"></span>
+<h3>soft Skills</h3>
     <summary><b>Soft Skills</b></summary>
     <p></p>
     <ul>
