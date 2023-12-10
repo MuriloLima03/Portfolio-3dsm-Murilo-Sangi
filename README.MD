@@ -24,7 +24,6 @@
     <ul>◻️ <a href="#contribuições2">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições2">Lições Aprendidas</a>
     <ul>◻️ <a href="#hard2">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft2">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -37,7 +36,6 @@
     <ul>◻️ <a href="#contribuições3">Contribuições Pessoais</a></ul>
     <ul>◻️ <a href="#lições3">Lições Aprendidas</a>
     <ul>◻️ <a href="#hard3">Hard Skills</a></ul>
-    <ul>◻️ <a href="#soft3">Soft Skills</a></ul>
     </ul>
   </details>
 </ul>
@@ -93,7 +91,7 @@ Neste projeto minha principal função foi como desenvolvedor frontend criando o
 <h3>Lições Aprendidas</h3>
 <p align="justify"> A experiência foi um bom jeito de aprender a conviver com pessoas em diversas situações e trabalha em equipe, se reunir e discutir as informações e os projetos foi extremamente valioso para o desenvolvimento não só de habilidades técnicas como linguagens de programação como também de soft skills como comunicação e colaboração em grupo.
 
-<h3>Hard Skills</h3>
+<h3>Hard and Soft Skills</h3>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -153,7 +151,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante o desenvolvimento aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
 
 <span id="hard2"></span>
-<h3>Hard Skills</h3>
+<h3>Hard and soft Skills</h3>
   <table align="center">
 <details>
     <summary><b>Hard Skills</b></summary>
@@ -164,8 +162,6 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
         <li>Desenvolvimento de SPA utilizando React.</li>
     </ul>
 </details>
-<span id="soft2"></span>
-<h3>soft Skills</h3>
     <summary><b>Soft Skills</b></summary>
     <p></p>
     <ul>
@@ -192,6 +188,7 @@ Neste projeto fui desenvolvedor frontend criando o protótipo do site, ajudando 
 Esse projeto foi conduzido em colaboração com a empresa do setor armamentista SIATT, e tinha como intuio o desenvolvimento de um software que ajude com o gerenciamento de equipes para projetos completos, seguindo as metodologias IPDT e WBS, que já são bem consolidadas na gestão de projetos e engenharia de sistemas.</p>
 
 <br>
+<span id="tecnologia3"></span>
 <h3>Tecnologias Utilizadas</h3>
 <li>
     <li><b>Java</b>: O back-end foi desenvolvido utilizando Java.</li>
@@ -202,6 +199,7 @@ Esse projeto foi conduzido em colaboração com a empresa do setor armamentista 
     <li><b>React Hook Form</b>:É uma biblioteca do react para que se tenha um gerenciamento eficiente de formulários</li>
     <li><b>MySQL</b>: Sistema gerenciador de banco de dados utilizado</li>
     <li><b>Mongodb</b>: Banco de dados não relacional utilizado para armazenar os dados não estruturados dos cronogramas dos projetos.</li>
+    <span id="contribuições3"></span>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">
 Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototipação de certas telas, como a listagem dos projetos, criação da lógica e estilização do gráfico junto de todas as suas funções, filtragem, animações, estilização, zoom entre outras, além de participar da correção de erros e de testar o projeto.
@@ -215,10 +213,11 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
   <li>Arquitetura da aplicação</li>
 </ul>
 <br>
+<span id="lições3"></span>
 <h3>Lições Aprendidas</h3>
 <p align="justify"> A experiência me levou a procurar conhecimentos além da faculdade e a ter a curiosidade e confiança necessária para a implementação de novas tecnologias, durante essa sprint aprendi muito sobre a importância da comunicação e da proatividade como meio de ajudar os colegas e expandir meu conhecimento técnico.
-
-<h3>Hard Skills</h3>
+<span id="hard3"></span>
+<h3>Hard and Soft Skills</h3>
 <details>
   <table align="center">
 <details>
