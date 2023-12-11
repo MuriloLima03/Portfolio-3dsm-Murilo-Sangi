@@ -241,7 +241,7 @@ Neste projeto fui desenvolvedor front-end ajudando na criação da logo, prototi
         <li>Autoconhecimento: entender as próprias limitações e não pegar mais do que possivel, e comunicar isso para a equipe </li>
     </ul>
   
-<p><a href="#sumário">Voltar para o início</a></p>
+<p></p>
 
 
 
